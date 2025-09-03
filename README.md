@@ -11,7 +11,7 @@ I'm a DevOps Engineer passionate about Infrastructure as Code (IaC) with Terrafo
 ## 🚀 Featured Projects
 - **[Terraform-ASG-ECS-DocDB](https://github.com/devopse2e/Terraform-ASG-ECS-DocDB)**: Scalable ECS on EC2 with ASG, ALB, internal LB, and DocDB in VPC.
 - **[Terraform-ASG-EC2-DOCDB](https://github.com/devopse2e/Terraform-ASG-EC2-DOCDB)**: Multi-tier app infra with VPC, ALB, ASG, and DocDB.
-- **[Other Repo]**: OrbitTasks application to create todo's list, deployment via manual or docker compose or also to local kubernetes.
+- **[Other Repo](https://github.com/devopse2e/Orbittasks-V1)**: OrbitTasks application to create todo's list, deployment via manual or docker compose or also to local kubernetes.
 
 Check my [pinned repos below](#) for code!
 
