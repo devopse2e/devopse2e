@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sachin Seelam! 👋
 
-<!--
-**devopse2e/devopse2e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps Engineer passionate about Infrastructure as Code (IaC) with Terraform, AWS, Kuberentes, GitLab CI/CD. I build automated solutions for various AWS services along with GitLab CI/CD pipelines and Kubernetes.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- **Cloud**: AWS (EC2, ECS, ALB, VPC, S3, IAM, ELK), Terraform (Modules, State Management)
+- **DevOps**: Git, CI/CD (Gitlab, Jenkins), Docker, Kubernetes
+- **Languages**: Python, Bash, HCL
+- **Other**: Infrastructure Security, Auto-Scaling, Monitoring (Prometheus, CloudWatch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[Terraform-ASG-ECS-DocDB](https://github.com/devopse2e/Terraform-ASG-ECS-DocDB)**: Scalable ECS on EC2 with ASG, ALB, internal LB, and DocDB in VPC.
+- **[Terraform-ASG-EC2-DOCDB](https://github.com/devopse2e/Terraform-ASG-EC2-DOCDB)**: Multi-tier app infra with VPC, ALB, ASG, and DocDB.
+- **[Other Repo]**: OrbitTasks application to create todo's list, deployment via manual or docker compose or also to local kubernetes.
+
+Check my [pinned repos below](#) for code!
+
+## 📈 GitHub Stats
+![DevOpsE2E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopse2e&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devopse2e&layout=compact&theme=radical)
+
+
+Open to collaborations on DevOps projects or job opportunities in Devops or cloud engineering!
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=devopse2e&color=brightgreen)
