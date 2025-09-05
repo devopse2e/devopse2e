@@ -3,10 +3,10 @@
 I'm a DevOps Engineer passionate about Infrastructure as Code (IaC) with Terraform, AWS, Kuberentes, GitLab CI/CD. I build automated solutions for various AWS services along with GitLab CI/CD pipelines and Kubernetes.
 
 ## 🔧 Skills & Tools
-- **Cloud**: AWS (EC2, ECS, ALB, VPC, S3, IAM, ELK), Terraform (Modules, State Management)
+- **Cloud**: AWS (EC2, ECS, ALB, VPC, S3, IAM, ELK), Terraform (Modules, State Management), OpenStack
 - **DevOps**: Git, CI/CD (Gitlab, Jenkins), Docker, Kubernetes
 - **Languages**: Python, Bash, HCL
-- **Other**: Infrastructure Security, Auto-Scaling, Monitoring (Prometheus, CloudWatch)
+- **Other**: Infrastructure Security, Auto-Scaling, Monitoring (Prometheus, CloudWatch, Zabbix)
 
 ## 🚀 Featured Projects
 - **[Terraform-ASG-ECS-DocDB](https://github.com/devopse2e/Terraform-ASG-ECS-DocDB)**: Scalable ECS on EC2 with ASG, ALB, internal LB, and DocDB in VPC.
