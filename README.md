@@ -15,7 +15,7 @@ I'm a DevOps Engineer with hands on experience in Terraform, AWS, Kuberentes, Gi
 
 
 
-Open to collaborations on DevOps projects or job opportunities in Devops or cloud engineering!
+Open to collaborations on DevOps projects or job opportunities in Devops or Cloud engineering!
 
 ---
 
