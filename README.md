@@ -1,6 +1,6 @@
 # Hi, I'm Sachin Seelam! 👋
 
-I'm a DevOps Engineer with hands on experience in Terraform, AWS, Kuberentes, GitLab CI/CD. I build automated solutions for various AWS services along with GitLab CI/CD pipelines and Kubernetes.
+I'm a DevOps Engineer with hands on experience in Terraform, AWS, Docker, Kuberentes, GitLab CI/CD, Linux.
 
 ## 🔧 Skills & Tools
 - **Cloud**: AWS (EC2, ECS, ALB, VPC, S3, IAM, ELK), Terraform (Modules, State Management), OpenStack
